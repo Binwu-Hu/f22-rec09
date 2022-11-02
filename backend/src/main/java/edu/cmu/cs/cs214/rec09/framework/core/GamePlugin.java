@@ -1,5 +1,7 @@
 package edu.cmu.cs.cs214.rec09.framework.core;
 
+import edu.cmu.cs.cs214.rec09.games.TicTacToe.Player;
+
 /**
  * The game plug-in interface that plug-ins use to implement and register games
  * with the {@link GameFramework}.  The type parameter, {@code P}, allows an
